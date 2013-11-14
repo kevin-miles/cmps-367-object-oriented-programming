@@ -1,0 +1,6 @@
+Bryan		21		3.1
+Avila		17		2.8
+James		22		3.1
+Joseph		16		3.2
+Samuel		19		2.9
+Will		24		3.1

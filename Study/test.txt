@@ -1,0 +1,10 @@
+Bob		25
+John	18
+Jared	93
+Jen		23
+Sally	44
+Tom		74
+Ralph	60
+Abby	42
+Joe		12
+Kathy	36

@@ -1,0 +1,6 @@
+Bryan		21		3.1
+Amanda		17		2.8
+Randy		22		3.1
+Joel		16		3.2
+Samuel		19		2.9
+Eric		24		3.1

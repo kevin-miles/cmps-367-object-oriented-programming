@@ -1,0 +1,4 @@
+25	2.5		Bob
+35	1.7		John
+44	3.9		Sally
+12	2.2		Jack
